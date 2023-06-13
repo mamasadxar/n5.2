@@ -10,7 +10,6 @@
  .container {
     width: 1165px;
     margin: 0 auto;
-    border: 1px solid black;
  }
  .user {
     display: inline-block;
@@ -35,6 +34,7 @@ body {
 }
 .card {
     display: inline-block;
+    vertical-align: bottom;
 }
 .cardpic {
     width: 362px;
@@ -50,4 +50,46 @@ body {
     margin-top: 186px;
     border-radius: 0px 0px 5px 5px;
     position: absolute;
+}
+h2 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-top: 32px;
+    margin-left: 41px;
+}
+.cardunderp1 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #8A8787;
+    margin-top: 68px;
+    margin-left: 37px;
+}
+.time {
+    margin-left: 40px;
+    vertical-align: middle;
+    margin-right: 11px;
+}
+.cardunderp2 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #8A8787;
+    display: inline-block;
+}
+.card2 {
+    display: inline-block;
+    margin-left: 402px;
+    vertical-align: bottom;
+}
+.card3 {
+    display: inline-block;
+    margin-left: 804px;
+    vertical-align: top;
 }
