@@ -1,1 +1,53 @@
- 
+ li {
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    font-family: 'Roboto';
+    display: inline-block;
+    margin-right: 35px;
+    vertical-align: middle;
+ }
+ .container {
+    width: 1165px;
+    margin: 0 auto;
+    border: 1px solid black;
+ }
+ .user {
+    display: inline-block;
+    vertical-align: middle;
+}
+nav {
+    display: inline-block;
+    margin-top: 11px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: 'Roboto';
+    margin-bottom: 27px;
+}
+.s1 {
+    margin-top: 40px;
+}
+body {
+    background-color: #F5F5F5;;
+}
+.card {
+    display: inline-block;
+}
+.cardpic {
+    width: 362px;
+    height: 186px;
+    position: absolute;
+    border-radius: 5px 5px 0px 0px;
+}
+.cardunder {
+    width: 362px;
+    height: 171px;
+    background-color: #FFFFFF;
+    display: inline-block;
+    margin-top: 186px;
+    border-radius: 0px 0px 5px 5px;
+    position: absolute;
+}
