@@ -93,3 +93,127 @@ h2 {
     margin-left: 804px;
     vertical-align: top;
 }
+.s2p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 400px;
+}
+.bigpics {
+    display: inline-block;
+    position: absolute;
+    width: 758px;
+    height: 430px;
+    border-radius: 5px;
+}
+.bigpic2 {
+    margin-top: 472px;
+}
+.bigpic1p {
+    position: absolute;
+    width: 202px;
+    height: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    display: inline-block;
+    top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.bigpic1 {
+    position: relative;
+    width: 202px;
+    height: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.firstpic {
+    display: inline-block;
+    width: 362px;
+    height: 212px;
+    border-radius: 5px;
+    margin-left: 803px;
+    margin-bottom: 100px;
+}
+footer {
+    height: 201px;
+    background: #243043;
+}
+.foter {
+    width: 33px;
+    height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #818687;
+    display: inline-block;
+    margin-top: 87px;
+}
+.fiter {
+    width: 33px;
+    height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #818687;
+    display: inline-block;
+    margin-top: 59px;
+}
+.tfisdat {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    position: absolute;
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 59px;
+}
+.fata {
+    position: absolute;
+}
+.fater {
+    width: 33px;
+    height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #818687;
+    display: inline-block;
+    margin-top: 115px;
+}
+.feter {
+    width: 33px;
+    height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #818687;
+    display: inline-block;
+    margin-top: 143px;
+}
+.geolablogo {
+    margin-left: 100%;
+    margin-top: 58px;
+}
